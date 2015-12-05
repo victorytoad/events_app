@@ -1,0 +1,23 @@
+.event-item {
+	height: 320px;
+	width: 100%;
+	background: url(https://placekitten.com/g/640/320);
+}
+
+.event-info {
+	padding: 10px 12px 0 40px;
+	font-size: 24pt;
+	line-height: 24px;
+	height: 80px;
+	background-color: rgba(0, 0, 0, .5);
+	color: #FFFFFF;
+}
+
+.event-subinfo {
+	font-size: 14pt;
+}
+
+.header-button-block {
+	float: right;
+	margin: 0 40px;
+}
